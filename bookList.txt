@@ -1,0 +1,5 @@
+"Hari Poter i kamen mudrosti",J.K. Rowling,1,0,Noone,0
+"Gordost i predrasuda",Jane Austen,2,1,Sofija,0
+"Ana Karenjina",Lav Nikolajevic Tolstoj,3,1,Sofija,0
+"Algoritmi i strukture podataka",Milo Tomasevic,4,1,Sofija,0
+"Operativni sistemi",Dragan Milicev,5,1,Sofija,0
