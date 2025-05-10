@@ -71,7 +71,7 @@ void Library::run() {
                 m_shelf->addBook(title, name);
                 break;
             default:
-                cout << "Invalid choice" << endl;
+                cout << "Invalid choice, try again." << endl;
                 break;
 
         }
