@@ -21,6 +21,6 @@ A basic command-line library management system built in C++ using Object-Oriente
 - User authentication (admin vs. normal user)
 - Add due dates and overdue tracking
 
-  ## 📌 Author
+## 📌 Author
 
 Developed by Sofija Djeric ([sokan02](https://github.com/sokan02))  
